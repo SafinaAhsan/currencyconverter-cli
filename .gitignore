@@ -1,0 +1,4 @@
+# IGgnore node_modules
+node_modules/
+# ignore javascript files
+*.js
